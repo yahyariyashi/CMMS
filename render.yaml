@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: atlas-cmms
+    env: docker
+    dockerfilePath: ./Dockerfile # (Or point it to your compose setup if using a compose blueprint)
+
