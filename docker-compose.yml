@@ -148,7 +148,3 @@ volumes:
   postgres_data:
   minio_data:
   
-  git add .
-git commit -m "Prepare for Render deployment"
-git push origin main
-
